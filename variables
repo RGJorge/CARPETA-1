@@ -1,0 +1,14 @@
+ #VARIABLES
+# Se definen con valores, no vacias (No es necesario espicificar el tipo)
+# Python = tipado debil 
+
+x = 5
+x = 4.5
+
+var = 30
+_var = 50
+var2 = 40
+
+# "=" es asignacion, se puede hacer asignacion multiple
+
+m, n = 1, 2

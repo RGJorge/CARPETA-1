@@ -1,0 +1,13 @@
+ #TIPOS DE DATOS
+ # DATOS PRIMITIVOS (A=ENTEROS, B=FLOTANTES, C=CADENA DE TEXTO, D=BULEANAS)
+ # st
+
+ A = 4
+ B = 4.0
+ C = "Hola Mundo"
+ C = 'Hola Mundo'
+ C = "1"
+ 
+ CC = int(C)
+ CC = str (C)
+ CC = float (C)
